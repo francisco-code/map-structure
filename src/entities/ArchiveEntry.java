@@ -3,9 +3,9 @@ package entities;
 public class ArchiveEntry {
 	
 	private String username;
-	private Integer vote;
+	private String vote;
 	
-	public ArchiveEntry(String username, Integer vote) {
+	public ArchiveEntry(String username, String vote) {
 		this.username = username;
 		this.vote = vote;
 	}
@@ -18,11 +18,11 @@ public class ArchiveEntry {
 		this.username = username;
 	}
 
-	public Integer getVote() {
+	public String getVote() {
 		return vote;
 	}
 
-	public void setVote(Integer vote) {
+	public void setVote(String vote) {
 		this.vote = vote;
 	}
 
