@@ -1,6 +1,6 @@
 # map-structure
 
-### Modelo de entrada de dados:
+### Modelo de estrutura:
 <p align="center">
-	<img width="470" src="https://github.com/francisco-code/assets/blob/master/estrutura_map.PNG">
+	<img width="800" src="https://github.com/francisco-code/assets/blob/master/estrutura_map.PNG">
 </p>
